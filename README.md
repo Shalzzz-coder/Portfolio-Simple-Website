@@ -6,6 +6,7 @@ It’s designed to showcase my web development skills with a clean and user-frie
 **Technologies**
 
 HTML
+
 CSS
 
 **Thank you for visiting my portfolio website!**
